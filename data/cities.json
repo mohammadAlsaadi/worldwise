@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🚩",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "It's a good city 🥰",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🚩",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Has the worst football club😜 ",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🚩",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "id": 1777555
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🚩",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🚩",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "My favorite city so far! 🥰",
+      "position": {
+        "lat": 41.3809,
+        "lng": 2.1228
+      },
+      "id": 12233455
+    },
+    {
+      "cityName": "Saint-Sulpice-le-Dunois",
+      "country": "France",
+      "emoji": "🚩",
+      "date": "2023-12-17T19:15:37.452Z",
+      "notes": "nice city :)",
+      "position": {
+        "lat": "46.30140578817977",
+        "lng": "1.7166143721286622"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Amman",
+      "country": "Jordan",
+      "emoji": "🚩",
+      "date": "2023-12-17T19:16:08.013Z",
+      "notes": "my home ",
+      "position": {
+        "lat": "31.998759431141053",
+        "lng": "35.94874394777252"
+      },
+      "id": 98443200
+    }
+  ]
+}
