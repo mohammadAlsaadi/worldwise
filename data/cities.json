@@ -59,30 +59,6 @@
         "lng": 2.1228
       },
       "id": 12233455
-    },
-    {
-      "cityName": "Saint-Sulpice-le-Dunois",
-      "country": "France",
-      "emoji": "🚩",
-      "date": "2023-12-17T19:15:37.452Z",
-      "notes": "nice city :)",
-      "position": {
-        "lat": "46.30140578817977",
-        "lng": "1.7166143721286622"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Amman",
-      "country": "Jordan",
-      "emoji": "🚩",
-      "date": "2023-12-17T19:16:08.013Z",
-      "notes": "my home ",
-      "position": {
-        "lat": "31.998759431141053",
-        "lng": "35.94874394777252"
-      },
-      "id": 98443200
     }
   ]
 }
